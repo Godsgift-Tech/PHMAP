@@ -1,0 +1,6 @@
+@PHAPI_HostAddress = http://localhost:5257
+
+GET {{PHAPI_HostAddress}}/lga/
+Accept: application/json
+
+###
